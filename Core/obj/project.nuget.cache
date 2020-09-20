@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXj4HiXvvTjwET3Z8hxfBCxoPYV98zVWG2ue6aBVk+exuUqdmPtYBvRNuPxKMKppBB7BEoEFn+8lf49TA1m29Q==",
+  "success": true,
+  "projectFilePath": "C:\\demo\\skinet\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
