@@ -60,3 +60,8 @@ C:\demo\skinet\api\bin\Debug\netcoreapp3.0\Infrastructure.pdb
 C:\demo\skinet\api\bin\Debug\netcoreapp3.0\Core.pdb
 C:\Demo\skinet\api\bin\Debug\netcoreapp3.0\AutoMapper.dll
 C:\Demo\skinet\api\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Demo\skinet\api\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Demo\skinet\api\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Demo\skinet\api\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Demo\skinet\api\obj\Debug\netcoreapp3.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Demo\skinet\api\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
