@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Demo\\skinet\\api\\API.csproj": {}
+    "C:\\Demo\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Demo\\skinet\\api\\API.csproj": {
+    "C:\\Demo\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Demo\\skinet\\api\\API.csproj",
+        "projectUniqueName": "C:\\Demo\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Demo\\skinet\\api\\API.csproj",
+        "projectPath": "C:\\Demo\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\Demo\\skinet\\api\\obj\\",
+        "outputPath": "C:\\Demo\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
