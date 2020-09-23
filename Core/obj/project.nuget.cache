@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gXj4HiXvvTjwET3Z8hxfBCxoPYV98zVWG2ue6aBVk+exuUqdmPtYBvRNuPxKMKppBB7BEoEFn+8lf49TA1m29Q==",
+  "dgSpecHash": "ng9t1mTaxF35Age0N4hJXQDlAE9vuZ23Nzf5ToaeGiEPXTHHqqB3JFwYcoNrcw24yeHOx1wzlFmE2ZmY5nUa+Q==",
   "success": true,
-  "projectFilePath": "C:\\demo\\skinet\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Demo\\skinet\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\james\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],

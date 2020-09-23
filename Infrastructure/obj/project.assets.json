@@ -1025,11 +1025,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\demo\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Demo\\skinet\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\demo\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Demo\\skinet\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-      "outputPath": "C:\\demo\\skinet\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Demo\\skinet\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1048,8 +1048,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\demo\\skinet\\Core\\Core.csproj": {
-              "projectPath": "C:\\demo\\skinet\\Core\\Core.csproj"
+            "C:\\Demo\\skinet\\Core\\Core.csproj": {
+              "projectPath": "C:\\Demo\\skinet\\Core\\Core.csproj"
             }
           }
         }

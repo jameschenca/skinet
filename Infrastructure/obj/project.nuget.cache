@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "imrCTuD/+sBEoQvDanBlqrHkO/V3jQbQAANuqbsU3UnE0iut30ZedAGwZYL5Qt0OXiodSCjQgbQoP8/ZErz/8Q==",
+  "dgSpecHash": "Yc1Bq8HAvdfOs010Bwy3N+BQ6+5aT5VUu17jkvKFd3xlwav+pWrI4g2bonMz9U6IDVM4U2haPKP2PfBtwzgWvQ==",
   "success": true,
-  "projectFilePath": "C:\\demo\\skinet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Demo\\skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\james\\.nuget\\packages\\microsoft.data.sqlite.core\\3.0.1\\microsoft.data.sqlite.core.3.0.1.nupkg.sha512",
     "C:\\Users\\james\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.0.1\\microsoft.dotnet.platformabstractions.3.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\demo\\skinet\\Core\\Core.csproj": {}
+    "C:\\Demo\\skinet\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\demo\\skinet\\Core\\Core.csproj": {
+    "C:\\Demo\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\demo\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Demo\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\demo\\skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Demo\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\demo\\skinet\\Core\\obj\\",
+        "outputPath": "C:\\Demo\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
