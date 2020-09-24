@@ -4,6 +4,7 @@ import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { Brand } from '../shared/models/brand';
 import { Pagination } from '../shared/models/pagination';
+import { Product } from '../shared/models/product';
 import { ProductType } from '../shared/models/productType';
 import { ShopParams } from '../shared/models/shopParams';
 
@@ -41,6 +42,10 @@ export class ShopService {
                     .pipe(
                       map(r => r.body)
                     );
+  }
+
+  getProduct(id: number): Observable<Product> {
+    return this.http.get<Product>(this.baseUrl + 'products/' + id);
   }
 
   getBrands(): Observable<Array<Brand>> {
